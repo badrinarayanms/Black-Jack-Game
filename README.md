@@ -19,7 +19,10 @@ Open the `index.html` file in your web browser to start playing the Blackjack ga
   - Aces are worth 1 point.
 
 - **Gameplay:**
-  - **Hit Button:** Adds another card to the player's hand.
+  ![bjj](https://github.com/badrinarayanms/Black-Jack-Game/assets/137931415/6f167e12-f517-4baa-81a5-1e72b6091f1a)
+
+
+  - **add Button:** Adds another card to the player's hand.
     - If the player's total exceeds 21, they lose ("bust").
     - If the player's total is exactly 21, they win.
   - **Stand Button:** Compares the dealer's and player's points.
