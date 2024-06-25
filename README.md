@@ -18,7 +18,9 @@ Open the `index.html` file in your web browser to start playing the Blackjack ga
   - Face cards (Jack, Queen, King) are each worth 10 points.
   - Aces are worth 1 point.
 
-- **Gameplay:**
+  # **Gameplay:**
+  - link: https://badrinarayanms.github.io/Black-Jack-Game
+  #
   ![bjj](https://github.com/badrinarayanms/Black-Jack-Game/assets/137931415/6f167e12-f517-4baa-81a5-1e72b6091f1a)
 
 
